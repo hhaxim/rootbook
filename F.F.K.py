@@ -1,4 +1,5 @@
 #qorsan-taiz
+
 import requests
 import random
 import time
@@ -10,6 +11,7 @@ B = '\033[2;36m'#سماوي
 X = '\033[1;33m' #yello
 C = '\033[2;34m'#بنفسجي
 M = '\033[1;92m'#green
+os.systam('clear')
 # Enter the ID of the target Facebook account
 account_id = input(X+"Enter the ID of the target Facebook account: ")
 
