@@ -6,22 +6,22 @@ A powerful reporting tool on Facebook from different protocols
 *Report on Facebook account
 This tool sends reports to a specific Facebook account using a large number of fake devices, IP addresses and fake user codes. This is done by creating a list of fake devices, IP addresses, and fake user codes. The tool sends reports using fake values, in order to avoid revealing the actual user identity. The code is implemented so that reports are sent between random intervals to avoid detection of abnormal activities
 
-# Instructions
+### Instructions
+```bash
+pkg update
 
-* pkg update
+pkg upgrade
 
-* pkg upgrade
+pkg install python
 
-* pkg install python
+pkg install git
 
-* pkg install git
+git clone https://github.com/qorsan73/Fuck-feca
 
-* git clone https://github.com/qorsan73/Fuck-feca
+cd Fuck-feca
 
-* cd Fuck-feca
-
-* python F.F.K.py
-
+python F.F.K.py
+```
 # Tested on termux or kali
 
 # photo
