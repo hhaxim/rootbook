@@ -1,9 +1,9 @@
 #qorsan-taiz
-
+import os
+os.system("pip install requests")
 import requests
 import random
 import time
-import os
 from colorama import Fore
 Z =  '\033[1;31m' #red
 F = '\033[2;30m' #رصاصي
