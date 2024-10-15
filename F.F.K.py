@@ -6,7 +6,7 @@ import requests
 import random
 import time
 from colorama import Fore
-Z =  '\033[1;31m' #red
+Z =  '\033[1;31m' #blue
 F = '\033[2;30m' #رصاصي
 B = '\033[2;36m'#سماوي
 X = '\033[1;33m' #yello
@@ -71,11 +71,11 @@ GGPYPPPPPPP555P5YY5YYYJ5YP##BGB###########PYYYJJYYYYY5GB#&#GGPP?JGGB&#BGPPG??5GY
 PPYY55555YYPPPPGGBGBGGGY?J5B#&&&&&&&&PPBGPPBGPGGG5BPYBB5PGY5Y5GYB##GYYYY??~~!!!!~!JBY?YY?JYYYYYJJYYY
 GPPGGPPGGGGY5BBGBB#B##BG#&@@@@@@@&&&&####B##B#B##BBGGG#BG5YPG#BB#B5YYYJ555J?J5JJJ5PYYJJJYYYYJYYYYYJY
 GGGGP5GGGBBB#&&&&@@&@&&@&&#&&&&&&&&&&&&&&&&&&&&&&&PB&###BB#&&&&&#P555YP#GY55??J555Y?JJ?7?YYY5Y5YYY5Y
-                                        \033[1;92m{by: qorsan-taiz}
                                         
-                                        {github: https://github.com/qorsan73}
                                         
-                                        {telegram: qorsantaez73}"""
+                                       
+                                        
+                  
 
 print(banner)
 
