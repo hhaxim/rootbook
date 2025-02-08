@@ -5,7 +5,7 @@ os.system("pip install colorama")
 import requests
 import random
 import time
-from colorama import Fore
+#from colorama import Fore
 Z =  '\033[1;31m' #red
 F = '\033[2;30m' #رصاصي
 B = '\033[2;36m'#سماوي
